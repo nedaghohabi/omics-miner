@@ -23,10 +23,10 @@ Requirements to use the cookiecutter template:
  - PAGER API script downloaded from the website: http://discovery.informatics.uab.edu/PAGER/index.php/pages/help. We loaded a updated version 8/6/22 in the folder.
  
 ## Table of Contents
-- [Template](#team-repo-template)
-    - [Background](#Background)
+- [o-miner](#o-miner)
+    - [Background](#background)
     - [Data](#data)
-    - [Usage](#usage)
+    - [Tools](#tools)
     - [Results](#results)
     - [Team Members](#team-members)
 	
