@@ -2,6 +2,17 @@
 
 Patient stratification and molecular mechanism identification using patient clinotypes and transcriptomics embeddings
 
+
+
+![Screenshot (45)](https://user-images.githubusercontent.com/89701701/183282400-835f77a0-ec7d-4769-afd0-d3557973747b.png)
+
+
+
+
+![Screenshot (46)](https://user-images.githubusercontent.com/89701701/183282500-e0568e81-413d-410e-9234-51e83a2500f7.png)
+
+
+
 Requirements to use the cookiecutter template:
 
 ### Requirements to use the cookiecutter template:
@@ -21,7 +32,10 @@ Requirements to use the cookiecutter template:
 	
 ## Background
 
-Cancer patient stratification and molecular mechanism identification are essential in risk prediction and personalized therapy. We introduce an application integrated with our previous published tools, the metadata annotation tool called "Statistical Enrichment Analysis of Samples (SEAS)" and the functional genomics downstream analysis tool called "PAGER Web APP". The application enables the stratification of the cancer patients associated with molecular subtypes joined with clinotypes using the clinical feature weighted functional genomics embeddings and allows users to identify sub-cohorts in densMAP. In the functional genomics downstream analysis, the application identifies molecular mechanisms driving the clinical feature and systematically reviews the critical insights of the pathway crosstalk and gene mechanisms among those molecular subtypes. To enable the multi-Omics explortaion of the molecular subtype specific survival related mechansims, we developed three layers consist of genetics (copy number alteration, gene methylation and gene fusion), transcriptomics (RNA-seq), and microbiome (microbiome abundance). We aims to explore the driving molecules and those relationships between the three Omics layers reflected in the pathway level. Additionally, we aim to discover those molecular type specific panels correlated to survival.
+Cancer patient stratification and molecular mechanism identification are essential in risk prediction and personalized therapy. We introduce an application integrated with our previous published tools, the metadata annotation tool called "Statistical Enrichment Analysis of Samples (SEAS)" and the functional genomics downstream analysis tool called "PAGER Web APP". The application enables the stratification of the cancer patients associated with molecular subtypes joined with clinotypes using the clinical feature weighted functional genomics embeddings and allows users to identify sub-cohorts in densMAP. In the functional genomics downstream analysis, the application identifies molecular mechanisms driving the clinical feature and systematically reviews the critical insights of the pathway crosstalk and gene mechanisms among those molecular subtypes.
+
+To enable the multi-Omics explortaion of the molecular subtype specific survival related mechansims, we developed three layers consist of genetics (copy number alteration, gene methylation and gene fusion), transcriptomics (RNA-seq), and microbiome (microbiome abundance). We aims to explore the driving molecules and those relationships between the three Omics layers reflected in the pathway level. Additionally, we aim to discover those molecular type specific panels correlated to survival.
+
 We used SEAS software tool to stratify the cancer patients associated with molecular subtypes joined with survival. We generate the candidate gene lists that collect genetic mutation, differentially expressed genes from RNA-seq data, GBM drug targets from drugbank, and clinical data (GETC).
 The project is critical in solving the problem of sub-cohort identification and molecular mechanism exploration using network modeling. 
 
@@ -38,7 +52,7 @@ https://go.drugbank.com/
 
 1.SEAS: http://discovery.informatics.uab.edu/SEAS/
 
-2.PAGER: http://discovery.informatics.uab.edu/PAGER/, PAGER Web APP: https://aimed-lab.shinyapps.io/PAGERwebapp/
+2.PAGER: http://discovery.informatics.uab.edu/PAGER/,  PAGER Web APP: https://aimed-lab.shinyapps.io/PAGERwebapp/
 
 3.WINNER: http://discovery.informatics.uab.edu/WINNER/
 
