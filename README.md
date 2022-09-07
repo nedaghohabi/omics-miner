@@ -1,6 +1,8 @@
-# UAB 2022 Omics Hackathon O-miner team
+### UAB Informatics Institute, 2022 Omics Hackathon, O-miner team
 
-Patient stratification and molecular mechanism identification using patient clinotypes and transcriptomics embeddings
+### Team o-miner achieved Third Place at the 2022 Hachin' Omics Hachathon.
+
+### Project Title: Patient stratification and molecular mechanism identification using patient clinotypes and transcriptomics embeddings
 
 
 
