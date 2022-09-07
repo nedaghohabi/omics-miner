@@ -8,12 +8,9 @@ Patient stratification and molecular mechanism identification using patient clin
 
 
 
-
 ![Screenshot (46)](https://user-images.githubusercontent.com/89701701/183282500-e0568e81-413d-410e-9234-51e83a2500f7.png)
 
 
-
-Requirements to use the cookiecutter template:
 
 ### Requirements to use the cookiecutter template:
 -----------
@@ -73,6 +70,23 @@ In the microbiome layer, we found that the Lymphocryptovirus is negatively assoc
 In the genetic layer, we found that there are 190 gene copy number alterations related to the transciptomic changes in the proneural gene panel. Most events were related to FOXO4 gene. There are 55 gene copy number alterations related to  the transciptomic changes in the proneural gene panel. Most events were related to  MET gene.
 
 In the methylation screening, we found that there were 95 events in the mesenchymal gene panel, 254 events in the proneural gene panel, and 65 events in the classical gene panel.
+
+## Presentation
+
+![Screenshot (48)](https://user-images.githubusercontent.com/89701701/188876644-cebbe873-87b5-4af7-88c4-9de35aeef111.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/89701701/188876703-de4c46fe-b397-4b57-aab7-c5fac2d388cf.png)
+
+![Screenshot (51)](https://user-images.githubusercontent.com/89701701/188876768-5667e0ce-d2ec-4994-90d5-4aa50325938d.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/89701701/188876821-6dbc785e-4112-48f3-ba6b-be5c5f6dfa57.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/89701701/188876848-ad8959f8-1fd6-4a5d-b7cf-aaf56b2652df.png)
+
+![Screenshot (55)](https://user-images.githubusercontent.com/89701701/188876893-0bd482da-c192-427d-b74e-d301650f8f1f.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/89701701/188876954-ba9dec2d-5d04-4ee4-ad76-29793374ff3c.png)
+
+
 
 ## Team Members
 
